@@ -1,0 +1,31 @@
+{
+  "chain_name": "entangle-testnet",
+  "coingecko": "",
+  "api": [
+    {
+      "provider": "SyaNodes",
+      "address": "https://entangle-testnet-api.syanodes.my.id/"
+    }
+  ],
+  "rpc": [
+    {
+      "provider": "SyaNodes",
+      "address": "https://entangle-testnet-rpc.syanodes.my.id/"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.12",
+  "coin_type": "60",
+  "min_tx_fee": "40000",
+  "addr_prefix": "ethm",
+  "logo": "/logos/entangle.jpg",
+  "assets": [
+    {
+      "base": "aNGL",
+      "symbol": "NGL",
+      "exponent": "18",
+      "coingecko_id": "",
+      "logo": "/logos/entangle.jpg"
+    }
+  ]
+}
