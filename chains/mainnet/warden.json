@@ -1,0 +1,28 @@
+{
+  "chain_name": "warden-testnet",
+  "api": [
+    {
+      "provider": "IT Rocket",
+      "address": "https://warden-testnet-api.itrocket.net"
+    }
+  ],
+  "rpc": [
+    {
+      "provider": "IT Rocket",
+      "address": "https://warden-testnet-rpc.itrocket.nett"
+    }
+  ],
+  "coin_type": 118,
+  "min_tx_fee": 200,
+  "sdk_version": "0.45.11",
+  "addr_prefix": "warden",
+  "logo": "/logos/warden.png",
+  "assets": [
+    {
+      "base": "uward",
+      "symbol": "WARD",
+      "exponent": 6,
+      "logo": "/logos/warden.png"
+    }
+  ]
+}
