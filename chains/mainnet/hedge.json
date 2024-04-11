@@ -17,7 +17,7 @@
   "coin_type": "118",
   "min_tx_fee": "800",
   "addr_prefix": "hedge",
-  "logo": "/logos/hedge.png",
+  "logo": "/logos/hedge.jpg",
   "theme_color": "#812cd6",
   "assets": [
     {
