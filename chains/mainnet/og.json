@@ -3,11 +3,19 @@
   "coingecko": "",
   "api": [
     {
+      "provider": "SyaNodes",
+      "address": "https://og-testnet-api.syanodes.my.id"
+    },
+    {
       "provider": "IT Rocket",
       "address": "https://og-testnet-api.itrocket.net"
     }
   ],
   "rpc": [
+    {
+      "provider": "SyaNodes",
+      "address": "https://og-testnet-rpc.syanodes.my.id"
+    },
     {
       "provider": "IT Rocket",
       "address": "https://og-testnet-rpc.itrocket.net"

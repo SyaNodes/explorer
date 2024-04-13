@@ -3,11 +3,19 @@
   "coingecko": "",
   "api": [
     {
+      "provider": "SyaNodes",
+      "address": "https://galactica-testnet-api.syanodes.my.id"
+    },
+    {
       "provider": "IT Rocket",
       "address": "https://galactica-testnet-api.itrocket.net"
     }
   ],
   "rpc": [
+    {
+      "provider": "SyaNodes",
+      "address": "https://galactica-testnet-rpc.syanodes.my.id"
+    },
     {
       "provider": "IT Rocket",
       "address": "https://galactica-testnet-rpc.itrocket.net"

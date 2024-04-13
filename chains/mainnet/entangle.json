@@ -3,11 +3,19 @@
   "coingecko": "",
   "api": [
     {
+      "provider": "IT Rocket",
+      "address": "https://entangle-testnet-api.itrocket.net"
+    },
+    {
       "provider": "SyaNodes",
       "address": "https://entangle-testnet-api.syanodes.my.id/"
     }
   ],
   "rpc": [
+    {
+      "provider": "IT Rocket",
+      "address": "https://entangle-testnet-rpc.itrocket.net"
+    },
     {
       "provider": "SyaNodes",
       "address": "https://entangle-testnet-rpc.syanodes.my.id/"

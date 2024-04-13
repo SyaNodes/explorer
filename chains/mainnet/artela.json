@@ -2,11 +2,19 @@
   "chain_name": "artela-testnet",
   "api": [
     {
+      "provider": "IT Rocket",
+      "address": "https://artela-testnet-api.itrocket.net"
+    },
+    {
       "provider": "SyaNodes",
       "address": "https://artela-testnet-api.syanodes.my.id/"
     }
   ],
   "rpc": [
+    {
+      "provider": "IT Rocket",
+      "address": "https://artela-testnet-rpc.itrocket.net"
+    },
     {
       "provider": "SyaNodes",
       "address": "https://artela-testnet-rpc.syanodes.my.id/"

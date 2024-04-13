@@ -2,11 +2,19 @@
   "chain_name": "hedge-testnet",
   "api": [
     {
+      "provider": "SyaNodes",
+      "address": "https://hedge-testnet-api.syanodes.my.id"
+    },
+    {
       "provider": "validator247",
       "address": "https://hedge-api.validator247.com"
     }
   ],
   "rpc": [
+    {
+      "provider": "SyaNodes",
+      "address": "https://hedge-testnet-rpc.syanodes.my.id"
+    },
     {
       "provider": "validator247",
       "address": "https://hedge-rpc.validator247.com"

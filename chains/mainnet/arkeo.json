@@ -1,7 +1,25 @@
 {
   "chain_name": "arkeo-testnet",
-  "api": ["https://arkeo-testnet-api.itrocket.net"],
-  "rpc": ["https://arkeo-testnet-rpc.itrocket.net"],
+  "api": [
+    {
+      "provider": "Nodeist",
+      "address": "https://api-testnet-arkeo.nodeist.net"
+    },
+    {
+      "provider": "IT Rocket",
+      "address": "https://arkeo-testnet-api.itrocket.net"
+    }
+  ],
+  "rpc": [
+    {
+      "provider": "Nodeist",
+      "address": "https://rpc-testnet-arkeo.nodeist.net"
+    },
+    {
+      "provider": "IT Rocket",
+      "address": "https://arkeo-testnet-rpc.itrocket.net"
+    }
+  ],
   "snapshot_provider": "",
   "sdk_version": "0.46.13",
   "coin_type": 118,
