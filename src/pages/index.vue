@@ -87,7 +87,7 @@ const chainStore = useBlockchain();
           </g>
         </svg>
       </div> -->
-      <h1 class="text-white text-3xl md:!text-6xl font-bold">
+      <h1 class="text-primary dark:text-white text-3xl md:!text-6xl font-bold">
         SyaNodes Explorer
       </h1>
     </div>
