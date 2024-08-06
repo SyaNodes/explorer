@@ -292,7 +292,7 @@ dayjs();
           </div>
         </a>
         <a
-          href="https://t.me/SyNodes"
+          href="https://t.me/SyaNodes"
           target="_blank"
           class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >
